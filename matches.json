@@ -1,5 +1,13 @@
 [
     {
+        "home_team": "المغرب",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/56ypq3nh9nzmd7o.png",
+        "away_team": "تونس",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/4zp5rzgh8oxq82w.png",
+        "status": "Upcoming",
+        "time_or_result": "21:00"
+    },
+    {
         "home_team": "مقدونيا الشمالية",
         "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/kn54qllhyopqvy9.png",
         "away_team": "بلجيكا",
@@ -22,14 +30,6 @@
         "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kdj2ryohoj7q1zp.png",
         "status": "Upcoming",
         "time_or_result": "19:45"
-    },
-    {
-        "home_team": "المغرب",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/56ypq3nh9nzmd7o.png",
-        "away_team": "تونس",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/4zp5rzgh8oxq82w.png",
-        "status": "Upcoming",
-        "time_or_result": "21:00"
     },
     {
         "home_team": "كوسوفو",
