@@ -2,31 +2,37 @@
     {
         "home_team": "مقدونيا الشمالية",
         "away_team": "بلجيكا",
+        "status": "Upcoming",
         "time_or_result": "19:45"
     },
     {
         "home_team": "النرويج",
         "away_team": "إيطاليا",
+        "status": "Upcoming",
         "time_or_result": "19:45"
     },
     {
         "home_team": "جبل طارق",
         "away_team": "كرواتيا",
+        "status": "Upcoming",
         "time_or_result": "19:45"
     },
     {
         "home_team": "المغرب",
         "away_team": "تونس",
+        "status": "Upcoming",
         "time_or_result": "21:00"
     },
     {
         "home_team": "كوسوفو",
         "away_team": "أرمينيا",
+        "status": "Upcoming",
         "time_or_result": "18:00"
     },
     {
         "home_team": "تشيلي",
         "away_team": "الأرجنتين",
-        "time_or_result": "0-1"
+        "status": "Upcoming",
+        "time_or_result": "0 - 1"
     }
 ]
