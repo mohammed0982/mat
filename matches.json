@@ -6,7 +6,7 @@
         "away_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/9vjxm8gh167r6od.png",
         "status": "unknown",
         "match_type": "مباريات ودية (منتخبات)",
-        "match_time": "18:00"
+        "match_time": ""
     },
     {
         "home_team": "مقدونيا الشمالية",
@@ -15,7 +15,7 @@
         "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/z318q66hd5eqo9j.png",
         "status": "unknown",
         "match_type": "تصفيات كأس العالم - أوروبا",
-        "match_time": "19:45"
+        "match_time": ""
     },
     {
         "home_team": "النرويج",
@@ -24,7 +24,7 @@
         "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/56ypq3nh290md7o.png",
         "status": "unknown",
         "match_type": "تصفيات كأس العالم - أوروبا",
-        "match_time": "19:45"
+        "match_time": ""
     },
     {
         "home_team": "جبل طارق",
@@ -33,7 +33,7 @@
         "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kdj2ryohoj7q1zp.png",
         "status": "unknown",
         "match_type": "تصفيات كأس العالم - أوروبا",
-        "match_time": "19:45"
+        "match_time": ""
     },
     {
         "home_team": "المغرب",
@@ -42,6 +42,15 @@
         "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/4zp5rzgh8oxq82w.png",
         "status": "unknown",
         "match_type": "مباريات ودية (منتخبات)",
-        "match_time": "21:00"
+        "match_time": ""
+    },
+    {
+        "home_team": "تشيلي",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/gx7lm7phykvm2wd.png",
+        "away_team": "الأرجنتين",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kdj2ryoh868q1zp.png",
+        "status": "bet365",
+        "match_type": "تصفيات أمريكا الجنوبية لكأس العالم",
+        "match_time": ""
     }
 ]
