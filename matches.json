@@ -1,50 +1,34 @@
 [
     {
-        "home_team": "المغرب",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/56ypq3nh9nzmd7o.png",
-        "away_team": "تونس",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/4zp5rzgh8oxq82w.png",
+        "home_team": "أندورا",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/03/8y39mp1hg6omojx.png",
+        "away_team": "إنجلترا",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/z8yomo4hl08q0j6.png",
         "status": "Upcoming",
-        "time_or_result": "2 - 0"
+        "time_or_result": "17:00"
     },
     {
-        "home_team": "مقدونيا الشمالية",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/kn54qllhyopqvy9.png",
-        "away_team": "بلجيكا",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/z318q66hd5eqo9j.png",
+        "home_team": "فنلندا",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/9vjxm8ghoz9r6od.png",
+        "away_team": "هولندا",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/9dn1m1ghzj5moep.png",
         "status": "Upcoming",
-        "time_or_result": "1 - 1"
+        "time_or_result": "19:45"
     },
     {
-        "home_team": "النرويج",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/8y39mp1h77lmojx.png",
-        "away_team": "إيطاليا",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/56ypq3nh290md7o.png",
+        "home_team": "ألبانيا",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/4zp5rzgh9j9q82w.png",
+        "away_team": "صربيا",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/9k82rekhd7prepz.png",
         "status": "Upcoming",
-        "time_or_result": "3 - 0"
+        "time_or_result": "19:45"
     },
     {
-        "home_team": "جبل طارق",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/1l4rjnh65l8m7vx.png",
-        "away_team": "كرواتيا",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kdj2ryohoj7q1zp.png",
+        "home_team": "الولايات المتحدة",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/kn54qllhv3xqvy9.png",
+        "away_team": "تركيا",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kn54qllhvxyqvy9.png",
         "status": "Upcoming",
-        "time_or_result": "0 - 7"
-    },
-    {
-        "home_team": "كوسوفو",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/dj2ryohke43q1zp.png",
-        "away_team": "أرمينيا",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/9vjxm8gh167r6od.png",
-        "status": "Upcoming",
-        "time_or_result": "5 - 2"
-    },
-    {
-        "home_team": "تشيلي",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/gx7lm7phykvm2wd.png",
-        "away_team": "الأرجنتين",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kdj2ryoh868q1zp.png",
-        "status": "Upcoming",
-        "time_or_result": "0 - 1"
+        "time_or_result": "20:30"
     }
 ]
