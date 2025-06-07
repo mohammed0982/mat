@@ -1,19 +1,11 @@
 [
     {
-        "home_team": "أندورا",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/03/8y39mp1hg6omojx.png",
-        "away_team": "إنجلترا",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/z8yomo4hl08q0j6.png",
+        "home_team": "الولايات المتحدة",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/kn54qllhv3xqvy9.png",
+        "away_team": "تركيا",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kn54qllhvxyqvy9.png",
         "status": "Upcoming",
-        "time_or_result": "17:00"
-    },
-    {
-        "home_team": "فنلندا",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/9vjxm8ghoz9r6od.png",
-        "away_team": "هولندا",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/9dn1m1ghzj5moep.png",
-        "status": "Upcoming",
-        "time_or_result": "19:45"
+        "time_or_result": "20:30"
     },
     {
         "home_team": "ألبانيا",
@@ -21,14 +13,22 @@
         "away_team": "صربيا",
         "away_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/9k82rekhd7prepz.png",
         "status": "Upcoming",
-        "time_or_result": "19:45"
+        "time_or_result": "0 - 0"
     },
     {
-        "home_team": "الولايات المتحدة",
-        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/kn54qllhv3xqvy9.png",
-        "away_team": "تركيا",
-        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/kn54qllhvxyqvy9.png",
+        "home_team": "فنلندا",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/06/9vjxm8ghoz9r6od.png",
+        "away_team": "هولندا",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/9dn1m1ghzj5moep.png",
         "status": "Upcoming",
-        "time_or_result": "20:30"
+        "time_or_result": "0 - 2"
+    },
+    {
+        "home_team": "أندورا",
+        "home_logo": "https://www.sir-tv.com/wp-content/uploads/2025/03/8y39mp1hg6omojx.png",
+        "away_team": "إنجلترا",
+        "away_logo": "https://www.sir-tv.com/wp-content/uploads/2024/11/z8yomo4hl08q0j6.png",
+        "status": "Upcoming",
+        "time_or_result": "0 - 1"
     }
 ]
